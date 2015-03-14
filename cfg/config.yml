@@ -1,0 +1,13 @@
+client:
+  nsnw:
+    address: 192.168.16.2
+    channel:
+      test: {enabled: true}
+      test2: {enabled: true}
+    enabled: true
+    nickname: lidbot
+    password: test
+    port: 6667
+    realname: LidBot
+    username: lidbot
+manager: {password: test, port: 54321, username: test}
